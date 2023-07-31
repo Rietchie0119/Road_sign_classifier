@@ -15,5 +15,5 @@ The results show pretty good accuracy on both training set and validation set.
 ![](https://github.com/Rietchie0119/Lane-detection/assets/28763133/9959d220-7773-472d-ba2b-b01b432d0ea5)<br/>
 ![](https://github.com/Rietchie0119/Lane-detection/assets/28763133/4575bdf4-b22c-4279-ba6d-eee82793b8f6)<br/>
 
-The model also outputs the correct label for test data.
+The model also outputs the correct label for test data.<br/>
 More details are shown in Road_sign.ipynb.
